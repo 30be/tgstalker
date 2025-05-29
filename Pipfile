@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 selenium = "*"
+google = "*"
+dotenv = "*"
+google-genai = "*"
 
 [dev-packages]
 
